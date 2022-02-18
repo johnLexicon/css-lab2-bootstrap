@@ -1,0 +1,22 @@
+{
+  "name": "css-lab2-bootstrap",
+  "version": "1.0.0",
+  "description": "Customize bootstrap 5 with help of SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnLexicon/css-lab2-bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnLexicon/css-lab2-bootstrap/issues"
+  },
+  "homepage": "https://github.com/johnLexicon/css-lab2-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
